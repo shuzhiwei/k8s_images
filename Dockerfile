@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-e2e-test-images/echoserver:2.2
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.4.1
